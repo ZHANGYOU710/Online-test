@@ -1,37 +1,50 @@
 # 在线答题平台
 
-#### 介绍
+### 介绍
+
 基于javaweb的在线答题平台
 
-#### 软件架构
-软件架构说明
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+初次完成时间：2019年12月
 
-#### 安装教程
+项目再次修改：2020年5月
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+功能再次完善：2020年7月
 
-#### 使用说明
+#### 开发环境：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 服务器版本：Tomcat 8.0.21（端口号9527）
+2. JDK版本：jdk 1.8
+3. 开发工具：IDEA
+4. 数据库：MySQL 5.7
+5. 数据库管理工具：SQLyog
 
-#### 参与贡献
+#### 学生端功能简介
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. 学生可以在首页进行答题（仅可操作一次，否则系统拦截）
+2. 学生可在个人中心实现：查看个人信息、修改个人信息、修改密码等功能（更多功能可以再添加）
+3. 学生可在信息管理界面查看由自己答题分数所被分配的班级
 
+#### 教师端功能简介
 
-#### 码云特技
+1. 教师(管理员)可以在基础数据管理里实现：学院、专业、班级、试题、学生的增删改查等操作
+2. 教师(管理员)可在个人中心实现：查看个人信息、修改个人信息、修改密码等功能（更多功能可以再添加）
+3. 教师(管理员)可在数据统计栏目里实现总体、地区、班级的成绩统计图
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 项目运行截图
+
+![image-20200725205631477](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest1.png)
+
+![image-20200725205643398](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest2.png)
+
+![image-20200725205650610](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest3.png)
+
+![image-20200725205658125](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest4.png)
+
+### 佑佑有话说
+
+如需获取更多软件项目文档与源码，请关注我的微信公众号**【佑佑有话说】**
+
+![佑佑有话说1](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/佑佑有话说1.png)
+
