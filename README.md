@@ -42,6 +42,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ![image-20200725205658125](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest4.png)
 
+#### 数据库文件获取
+
+关注我的微信公众号**【佑佑有话说】**，回复关键字**【online-test】**即可获取
+
 ### 佑佑有话说
 
 如需获取更多软件项目文档与源码，请关注我的微信公众号**【佑佑有话说】**
