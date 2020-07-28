@@ -4,14 +4,13 @@
 
 基于javaweb的在线答题平台
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 初次完成时间：2019年12月
 
 项目再次修改：2020年5月
 
-功能再次完善：2020年7月
-
+功能再次完善（修复图片的不正常显示）：2020年7月28日
 #### 开发环境：
 
 1. 服务器版本：Tomcat 8.0.21（端口号9527）
@@ -41,6 +40,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![image-20200725205650610](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest3.png)
 
 ![image-20200725205658125](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/onlinetest4.png)
+
+![image-20200728150523325](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/image-20200728150523325.png)
+
+![image-20200728150629209](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/image-20200728150629209.png)
+
+![image-20200728150702604](https://gitee.com/YOUYOU-xcu/images/raw/master/mini/image-20200728150702604.png)
 
 #### 数据库文件获取
 
